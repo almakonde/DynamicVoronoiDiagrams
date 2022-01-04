@@ -4,7 +4,7 @@
 Slight tweaks to Ivan Kutskir's implementation of Fortune's Voronoi-diagram-building
 algorithm (from <http://blog.ivank.net/fortunes-algorithm-and-implementation.html>)
 to allow it to be compiled easily on Linux. (Plus translation of an error message
-from Czech to English, using Google Translate.)
+to English, using Google Translate.)
 
 Source code taken from the .zip file at
 <http://www.ivank.net/blogspot/vor/voronoi.zip>.
