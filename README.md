@@ -6,8 +6,7 @@ algorithm (from <http://blog.ivank.net/fortunes-algorithm-and-implementation.htm
 to allow it to be compiled easily on Linux. (Plus translation of an error message
 to English, using Google Translate.)
 Copyright (C) Almagul Kondubayeva 2021
-Source code taken from the .zip file at
-<http://www.ivank.net/blogspot/vor/voronoi.zip>.
+
 
 ## requirements
 
